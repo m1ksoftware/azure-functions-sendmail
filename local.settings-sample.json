@@ -1,0 +1,10 @@
+﻿{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SENDGRID_APIKEY": "",
+    "SENDGRID_FROMMAIL": "",
+    "SENDGRID_RECIPIENT": ""
+  }
+}
